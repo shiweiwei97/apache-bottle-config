@@ -1,0 +1,3 @@
+## serverlist.txt
+
+servers hello|hello2
